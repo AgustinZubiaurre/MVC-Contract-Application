@@ -10,7 +10,9 @@ Construir una Grilla que muestre los Tipos de Contrato que maneja la empresa
 
 	CONSIGNAS
 •	El proyecto podrá ser realizado en Visual Studio o Visual Code - :white_check_mark:
+
 •	Tendrá que tener una estructura MVC - :white_check_mark:
+
 •	Podrán utilizarse solamente los siguientes lenguajes:
 -	HTML - :white_check_mark:
 -	CSS - :white_check_mark:
